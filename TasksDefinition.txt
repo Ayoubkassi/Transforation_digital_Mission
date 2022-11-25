@@ -1,0 +1,144 @@
+-Opérateur 3:
+
+	-Lit le planning travaux : 
+		-activité associé :
+			-chercher le fichier word planing traveaux.
+			-ouvrir le fichier word de planing traveaux qui ont ete redige par le chef de quart.
+			-lire le fichier word planing traveaux.
+			
+		-donnés pré-requis :
+			-planning traveaux.
+		
+		-donnés modifiés:
+		
+			
+	-Remplit la feuille de tournée :
+		-activité associé :
+			-chercher le fichier feuille de tournée.
+			-ouvrir le fichier feuille de tournée.
+			-entrer des nouvelle valeur dans le fichier feuille de tournée.
+			
+		-donnés pré-requis :
+			-feuille de tournée.
+		
+		-donnés modifiés:
+			-feuille de tournée.
+		
+	-Lit la mise à disposition :
+		-activité associé :
+			-chercher le fichier mise à disposition.
+			-ouvrir le fichier mise à disposition.
+			-lire le fichier mise à disposition.
+		
+		-donnés pré-requis :
+			-la mise à disposition.
+		
+		-donnés modifiés:
+		
+	-Lit les consignes :
+		-activité associé :
+			-chercher le fichier consignes.
+			-ouvrir le ficher consignes.
+			-lire le fichier consignes.
+		
+		-donnés pré-requis :
+			-les consignes.
+		
+		-donnés modifiés:
+		
+	-Lit le plan consignation :
+		-activité associé :
+			-chercher le fichier plan de consignation.
+			-ouvrir le fichier plan de consignation.
+			-lire le fichier plan de consignation.
+		
+		-donnés pré-requis :
+			-plan consignation.
+		
+		-donnés modifiés:
+
+
+		
+	
+-Opérateur 2:
+
+	-Remplit le suivi qualité :
+		-activité associé :
+			-chercher le fichier suivi qualite.
+			-ouvrir le fichier suivi qualite.
+			-remplir le fichier suivi qualite pour les donnes de jour actuel.
+			
+		-donnés pré-requis:
+			-fichier suivi qualite.
+			
+		-donnés modifiés:
+			-fichier suivi qualite.
+	
+	-Lit les TU :
+		-activité associé :
+			-chercher le ficher des TU.
+			-ouvrir les fichier des TU.
+			-lires les fichiers des TU.
+			
+		-donnés pré-requis:
+			-les TU.
+		
+		-donnés modifiés:
+	
+	-Remplit / Rapport quart op :
+		-activité associé :
+			-chercher le rapport quart op.
+			-ouvrir le rapport quart op.
+			-remplir le rapport quart op.
+			
+		-donnés pré-requis:
+			-rapport quart op.
+		
+		-donnés modifiés:
+			-rapport quart op.
+
+	-Lit plan d'analyse :
+		-activité associé :
+			-chercher plan analyse.
+			-ouvrir plan analyse.
+			-lire plan analyse.
+			
+			
+		-donnés pré-requis:
+			-plan d'analyse.
+		
+		-donnés modifiés:
+		
+	
+	-Lit les consignes :
+		-activité associé :
+			-chercher les consignes. 
+			-ouvrir les consignes.
+			-lire les consignes.
+			
+			
+		-donnés pré-requis:
+			-les consignes.
+		
+		-donnés modifiés:
+	
+	-Lit le planning travaux :
+		-activité associé :
+			-chercher le planing travaux.
+			-ouvrir le planing travaux.
+			-lire le planing travaux.
+			
+		-donnés pré-requis:
+			-planning travaux.
+		
+		-donnés modifiés:
+	
+
+
+
+
+	
+
+
+	
+
